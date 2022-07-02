@@ -7,3 +7,6 @@
 - chapter5 散列
 - chapter6 优先队列（堆）
 - chapter7 排序
+- chapter8 不相交集（并查集）
+- chapter9 图论算法
+- chapter10 哈夫曼编码
